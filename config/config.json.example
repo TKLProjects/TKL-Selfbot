@@ -1,0 +1,13 @@
+{
+  "webhook_token":"",
+  "log_channel":,
+  "gamestatus":"",
+  "custom_search_engine":"",
+  "token":"",
+  "google_api_key":"",
+  "prefix":["/"],
+  "mal_username":"",
+  "mal_password":"",
+  "setlog":"off",
+  "embed_color":""
+}
