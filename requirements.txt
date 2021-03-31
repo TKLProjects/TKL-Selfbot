@@ -3,7 +3,7 @@ beautifulsoup4 == 4.5.3
 colour == 0.1.4
 git+https://github.com/Rapptz/discord.py@master
 discord.webhooks
-lxml == 4.6.2
+lxml == 4.6.3
 psutil == 5.6.6
 python_dateutil == 2.6.0
 PythonGists == 1.1.3
